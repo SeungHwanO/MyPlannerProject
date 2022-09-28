@@ -12,9 +12,11 @@ git commit -m "" : 커밋 상세 설명
 git log : 커밋 기록 확인
 git checkout 커밋주소 : 해당 커밋으로 체크아웃
 
-remote add origin 깃허브주소 : 원격저장소 주소 지정
+git remote add origin 깃허브주소 : 원격저장소 주소 지정
 git push origin 브랜치이름 : 로컬저장소 커밋들을 해당 브랜치로 업로드
 
 git branch 사용법 (아래 링크 참조)
 https://goddaehee.tistory.com/274
 
+-지민 오류 ['origin' does not appear to be a git repository]
+https://jjunii486.tistory.com/153
